@@ -70,7 +70,7 @@ function Display() {
                 <table className="data-table">
                     <thead>
                         <tr>
-                            <th>Rank</th>
+                            <th>Rank1</th>
                             <th>name</th>
                             <th>price</th>
                             <th>Volume</th>

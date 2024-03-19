@@ -55,7 +55,7 @@ function Home() {
                             <input type="password" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)} />
                             <a id="fopass" href="">Forgot password?</a>
                         
-                            <button id="btn" type="submit">Ok</button>
+                            <button id="btn" type="submit">Login</button>
                         </div>
                     </form>
                 </div>
